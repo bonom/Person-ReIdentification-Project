@@ -27,11 +27,11 @@
 **The project aims to adapt a system of Person Re-Identification to Vehicle Re-Identification.**
 
 Person Re-Identification (Re-ID) is the task of identifying a specific person across different camera views and locations. It is a critical problem in the field of computer vision and has numerous applications, such as in surveillance systems, smart cities, and retail analytics.
-The goal of person Re-ID is to accurately match a person's appearance in one camera view with their appearance in another camera view, even if the person is wearing different clothes or their appearance has changed due to factors such as lighting or pose.
+The goal of Person Re-ID is to accurately match a person's appearance in one camera view with their appearance in another camera view, even if the person is wearing different clothes or their appearance has changed due to factors such as lighting or pose.
 
 <img width="700" alt="person_ReID" src="images/person_ReID.jpg">
 
-Vehicle Re-Identification (Re-ID) is the task of identifying a specific vehicle across different camera views and locations. It is a problem that is similar to person re-ID, but applied to vehicles instead of people.
+Vehicle Re-Identification (Re-ID) is the task of identifying a specific vehicle across different camera views and locations. It is a problem that is similar to Person Re-ID, but applied to vehicles instead of people.
 
 <img width="700" alt="vehicleReID" src="images/vehicleReID.jpg">
 
@@ -46,7 +46,7 @@ In the figure below is reported the structure of the Nformer:
 ## Getting Started :man_technologist:
 
 ### Training :rocket:
-Regarding person Re-ID task:
+Regarding Person Re-ID task:
 You can run ```Experiment-all_tricks-tri_center-market.sh``` to train the Nformer on the Market1501 dataset.
 
 If you want to run the training for the task vehicle Re-ID you have to change the dataset in the file ```Experiment-all_tricks-tri_center-market.sh``` from Market1501 to Veri. Then you can run it.
@@ -73,7 +73,7 @@ sh Test-all_tricks-tri_center-feat_after_bn-cos-market.sh
 
 The dataset used for Person Re-Identification is the Market1501 available at [this](https://zheng-lab.cecs.anu.edu.au/Project/project_reid.html) link.
 
-Regarding the vehicle Re-Identification task, you have to ask for the permission to use the dataset at [Veri-776 dataset](https://www.v7labs.com/open-datasets/veri-dataset).
+Regarding the Vehicle Re-Identification task, you have to ask for the permission to use the dataset at [Veri-776 dataset](https://www.v7labs.com/open-datasets/veri-dataset).
 
 ## Contacts
 
