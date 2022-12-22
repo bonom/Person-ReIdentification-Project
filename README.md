@@ -29,18 +29,18 @@
 Person Re-Identification (Re-ID) is the task of identifying a specific person across different camera views and locations. It is a critical problem in the field of computer vision and has numerous applications, such as in surveillance systems, smart cities, and retail analytics.
 The goal of person Re-ID is to accurately match a person's appearance in one camera view with their appearance in another camera view, even if the person is wearing different clothes or their appearance has changed due to factors such as lighting or pose.
 
-<img width="1604" alt="personReID" src="images/personReID.jpeg">
+<img width="700" alt="personReID" src="images/personReID.jpg">
 
 Vehicle Re-Identification (Re-ID) is the task of identifying a specific vehicle across different camera views and locations. It is a problem that is similar to person re-ID, but applied to vehicles instead of people.
 
-<img width="1604" alt="vehicleReID" src="images/vehicleReID.jpeg">
+<img width="700" alt="vehicleReID" src="images/vehicleReID.jpg">
 
 ## Nformer
 For this project, we decided to use the repository of the paper [NFormer: Robust Person Re-identification with Neighbor Transformer](https://arxiv.org/abs/2204.09331) which is available at [Nformer](https://github.com/haochenheheda/NFormer).
 
 In the figure below is reported the structure of the Nformer:
 
-<img width="1604" alt="pipeline" src="images/pipeline.jpeg">
+<img width="700" alt="pipeline" src="images/pipeline.jpg">
 
 
 ## Getting Started :man_technologist:
