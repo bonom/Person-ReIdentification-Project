@@ -79,7 +79,7 @@ Regarding the Vehicle Re-Identification task, you have to ask for the permission
 
 Andrea Bonomi - [Github](https://github.com/bonom/) - [LinkedIn](https://www.linkedin.com/in/andreabonomi984/) - [UniTN Email](mailto:andrea.bonomi-2@studenti.unitn.it)
 <br>
-Khouloud Ismail - [Github](https://github.com/) - [LinkedIn](https://www.linkedin.com/in/khouloudismail/) - [UniTN Email](mailto:khouloud.ismail@studenti.unitn.it)
+Khouloud Ismail - [Github](https://github.com/Kh0uloud/) - [LinkedIn](https://www.linkedin.com/in/khouloudismail/) - [UniTN Email](mailto:khouloud.ismail@studenti.unitn.it)
 <br>
 Francesco Laiti - [Github](https://github.com/laitifranz/) - [LinkedIn](https://www.linkedin.com/in/francesco-laiti/) - [UniTN Email](mailto:francesco.laiti@studenti.unitn.it)
 <br>
