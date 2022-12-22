@@ -29,7 +29,7 @@
 Person Re-Identification (Re-ID) is the task of identifying a specific person across different camera views and locations. It is a critical problem in the field of computer vision and has numerous applications, such as in surveillance systems, smart cities, and retail analytics.
 The goal of person Re-ID is to accurately match a person's appearance in one camera view with their appearance in another camera view, even if the person is wearing different clothes or their appearance has changed due to factors such as lighting or pose.
 
-<img width="700" alt="personReID" src="images/personReID.jpg">
+<img width="700" alt="person_ReID" src="images/person_ReID.jpg">
 
 Vehicle Re-Identification (Re-ID) is the task of identifying a specific vehicle across different camera views and locations. It is a problem that is similar to person re-ID, but applied to vehicles instead of people.
 
